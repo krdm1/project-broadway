@@ -5,7 +5,7 @@ body {
 
 .heading {
   color: white;
-  background-image: url("../images/the-flatiron-building.jpg")
+  background-image: url("../images/the-flatiron-building.png")
 }
 h1 {
   font-size: 70px;
@@ -19,7 +19,11 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+p {
+  font-size: 14px;
+}
 footer {
+  text-align: left;
   background-color: dimgray;
   color: white;
   font-size: 11px;
